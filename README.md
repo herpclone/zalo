@@ -15,6 +15,8 @@ Diverse connection methods: text messaging - voice - sticker - image, regular ca
 Zalo Clone is an application copied from Zing's original Zalo application.
 ## IS THE APP DEEPLY MODIFIED INSIDE?
 The application is not modified, just a small change compared to the original application.
+## CAN I INSTALL BOTH CLONE APPS USING THE ORIGINAL APP?
+Yes, because the clone application is created to be able to run in parallel with the original application
 ## CAN THE APP BE UPDATED DIRECTLY FROM PLAYSTORE?
 No!, this is a clone application, not uploaded to Playstore so updates cannot be installed directly from Playstore.
 
