@@ -3,9 +3,11 @@
 The communication application ensures fast, stable, convenient and private connection for users anytime, anywhere.
 
 **Fast and stable**
+
 Content exchanged between users such as messages, calls, images, high-quality files... is transmitted instantly and stably in all connection conditions.
 
 **Simple and convenient**
+
 The interface is simple, easy to use and friendly to many different audiences
 Diverse connection methods: text messaging - voice - sticker - image, regular calling - video, personal communication - group communication, sending files, taking screenshots... suitable for personal use people and work
 
